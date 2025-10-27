@@ -5,7 +5,7 @@ A simple **Todo web application** built with
 
 ---
 
-## ✨ Features
+## ✨ Feature
 - Add new tasks
 - Toggle tasks (mark as complete/incomplete)
 - Delete tasks
